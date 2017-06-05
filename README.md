@@ -1,4 +1,5 @@
 # 1406031
-deriza /n
-Alamat /n
+deriza -
+Alamat -
 TIC
+npm=1406031
