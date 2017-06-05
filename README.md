@@ -1,7 +1,7 @@
 # 1406031
-deriza -
-Alamat -
+deriza M. Alfarizi-
+Kelas=
 TIC
 npm=1406031
--mata kuliah-
+-mata kuliah=
 -Rekayasa Perangkat Lunak-
