@@ -1,4 +1,4 @@
 # 1406031
-deriza
-Alamat
+deriza /n
+Alamat /n
 TIC
