@@ -1,5 +1,5 @@
 # 1406031
-deriza M. Alfarizi-
+#deriza M. Alfarizi-
 Kelas=
 TIC
 npm=1406031
