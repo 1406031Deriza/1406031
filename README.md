@@ -1,6 +1,6 @@
 # 1406031
 #deriza M. Alfarizi-
-Kelas=
+#Kelas=
 TIC
 npm=1406031
 -mata kuliah=
